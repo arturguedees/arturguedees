@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação na Universidade Tiradentes, com experiência prática nas áreas de desenvolvimento web, programação e análise de dados. <br><br>- 💻 Atualmente estagio na SEMED (Secretaria Municipal de Educação)<br>- 📚 Além da faculdade, fiz um curso técnico de programação WEB com certificação <br>- 🧑🏻‍🎓 Tenho experiência prática com criação de sistemas WEB e banco de dados</p>
+<p align="left">Sou estudante de Sistemas de Informação e desenvolvedor FullStack, com experiência prática nas áreas de desenvolvimento web, programação e análise de dados <br><br>- 💻 Atualmente sou desenvolvedor FullStack na SMS (Secretaria Municipal da Saúde)<br>- 📚 Além da experiência do trabalho e da faculdade, também fui estagiário de Banco de Dados na SEMED (Secretaria Municipal de Educação) e fiz um curso técnico com duração de 8 meses para a formação de desenvolvedor FullStack Júnior, com certificação comprovatória<br>- 📇 Tenho experiência prática com criação de sistemas WEB completos (desde o Backend, Frontend e Banco de Dados à infraestrutura), automações e soluções digitais em geral</p>
 
 ###
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
